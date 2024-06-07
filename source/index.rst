@@ -6,7 +6,7 @@
 Welcome to ewc-eu-projects's documentation!
 ================================================
 
-EWC EU projects public documentation
+EWC EU projects documentation
 
 .. toctree::
    :maxdepth: 2
