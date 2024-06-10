@@ -5,7 +5,7 @@
 
 # Welcome to ewc-eu-projects's documentation!
 
-EWC EU projects documentation
+EWC EU projects documentation!!
 
 ```{toctree}
 :caption: 'Contents:'
