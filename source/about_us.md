@@ -3,17 +3,6 @@
 % You can adapt this file completely to your liking, but it should at least
 % contain the root `toctree` directive.
 
-# Welcome to ewc-eu-projects's documentation!
+# ABOUT US
 
-EWC EU projects documentation
-
-```{toctree}
-:caption: 'Contents:'
-:maxdepth: 2
-```
-
-# Indices and tables
-
-- {ref}`genindex`
-- {ref}`modindex`
-- {ref}`search`
+## About EWC EU projects page
